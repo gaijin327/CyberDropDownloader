@@ -4,7 +4,7 @@ authors = [{name = "Jacob B", email = "admin@script-ware.net"}]
 dependencies = [
     "aiodns >=4.0.0",
     "aiofiles >=25.1.0",
-    "aiohttp[speedups] >=3.13.3",
+    "aiohttp[speedups] >=3.14.1",
     "aiolimiter >=1.2.1",
     "aiosqlite>=0.22.1",
     "beautifulsoup4 >=4.14.3",
